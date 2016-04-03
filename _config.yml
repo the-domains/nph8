@@ -1,0 +1,28 @@
+name: nph8
+favicon: null
+layout_spectrum: 0.10426579089835286
+typography_spectrum: 0.9439452770166099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2526202804874629
+  lightness: 0.80453179217875
+  saturation: 0.5588445824105293
+  rhythmicContrast: 0.06850142381154001
+purpose: []
