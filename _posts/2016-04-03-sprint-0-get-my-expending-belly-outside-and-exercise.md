@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hey! My name is Carl and I'm creating AI systems at TheGrid! I'm from Quebec, Canada and mostly speak french so please forgive me for weird usage of english :) I'm always looking for some ways to push myself so I decided to start this site to share with you those experiments and see what works and what doesn't.\_"
-datePublished: '2016-04-03T17:36:07.267Z'
-dateModified: '2016-04-03T17:35:38.329Z'
+datePublished: '2016-04-03T23:49:01.628Z'
+dateModified: '2016-04-03T20:45:36.994Z'
 title: "Sprint 0 -\_get my expending belly outside and exercise!"
 author: []
+sourcePath: _posts/2016-04-03-sprint-0-get-my-expending-belly-outside-and-exercise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-sprint-0-get-my-expending-belly-outside-and-exercise.md
-published: true
 url: sprint-0-get-my-expending-belly-outside-and-exercise/index.html
 _type: Article
 
@@ -45,9 +45,6 @@ Push-ups and abdos before showering tone up the body and bring back focus before
 20-min of punching bags training at lunch time is not too long to exhaust myself but just perfect to take a break from mental activity and mentally balancing back the flow of thoughts with this intense activity. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e98c5611-baa6-4b96-8685-2f6d68a17449.jpg)
 
 For me the end of the afternoon as always been my intellectual low point of the day! Barely can calculate 2+2! So its the perfect time to get outside for a jogging! Breath fresh air, listen to the latest [Above & Beyond ABGT][4] and concentrate on making one with road!
-
-  
-
 
 [0]: thegrid.io
 [1]: https://www.google.ca/search?q=quebec+canada&espv=2&biw=1106&bih=657&source=lnms&tbm=isch&sa=X&ved=0ahUKEwij_p69gPPLAhUqmoMKHXbjCAEQ_AUIBygC&dpr=2#tbm=isch&q=quebec+city
