@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nph8]]></title>
         <description><![CDATA[nph8]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nph8/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 17:36:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 23:49:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nph8/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sprint 0 - get my expending belly outside and exercise!]]></title>
             <description><![CDATA[<article><h1>Sprint 0 - get my expending belly outside and exercise!</h1><p>Hey! My name is Carl and I'm creating AI systems at TheGrid! I'm from Quebec, Canada and mostly speak french so please forgive me for weird usage of english :) I'm always looking for some ways to push myself so I decided to start this site to share with you those experiments and see what works and what doesn't. </p></article>]]></description>
-            <link>undefinedsprint-0-get-my-expending-belly-outside-and-exercise/index.html</link>
+            <link>https://thegrid.ai/nph8/sprint-0-get-my-expending-belly-outside-and-exercise/index.html</link>
             <guid isPermaLink="false">ef87d33b-d807-4d85-9065-82974337cee9</guid>
-            <pubDate>Sun, 03 Apr 2016 17:36:07 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 23:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
